@@ -43,6 +43,7 @@ aside
     background-color:red;
     color: yellow;
     overflow: auto;
+    text-align:center;
 }
 #y
 {
@@ -90,6 +91,7 @@ overflow: auto;
 main
 {
     background-color:red;
+    text-align:center;
     
     
     
@@ -118,7 +120,7 @@ main
 footer
 {
 background-color: black;
-
+     text-align:center;
     color:yellow;
     text-align: center;
     padding:10px;
